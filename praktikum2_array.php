@@ -41,4 +41,6 @@ if($suhu == 30){
 	echo "suhu dingin"."<br>";
 }else{echo "panas";}
 
+
+
 ?>
